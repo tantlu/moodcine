@@ -1,0 +1,5 @@
+{
+  "name": "MoodCine",
+  "description": "A cinematic mood-based movie recommender that suggests films based on how you are feeling.",
+  "requestFramePermissions": []
+}
