@@ -9,3 +9,10 @@ export interface Movie {
 export interface SavedMovie extends Movie {
   savedAt: number;
 }
+
+export interface MovieDetails {
+  synopsis: string;
+  cast: string[];
+  rating: string;
+  director: string;
+}
